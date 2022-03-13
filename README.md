@@ -1,8 +1,8 @@
 <div align="center">
   
-  # AFK Until 2023.3 ... 🪖
+  ## AFK Until 2023.3 ... 🪖
   
-  ### 📝 Techs which I'm interested in
+  #### 📝 Techs which I'm interested in
   
   <p>
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
