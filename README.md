@@ -1,6 +1,6 @@
 <div align="center">
   
-  ## AFK Until 2023.3 ... 🪖
+  ## AFK until March of 2023 ... 🪖
   
   ### 📝 <!-- Techs which I'm interested in -->
   
